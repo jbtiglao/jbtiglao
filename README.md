@@ -1,6 +1,6 @@
 ### Hi there. I'm Jane. 👋 
 
-I'm an Autism mom with a technical writing and legal background. I want to build accessible legal and special needs applications.
+I'm an Autism mom and advocate with a technical writing and legal background. I want to build accessible legal and special needs applications.
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning how to code.
