@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jane. 
+### Hi there. I'm Jane. 👋 
 
 I'm an Autism mom with a technical writing and legal background. I want to build accessible legal and special needs applications.
 
