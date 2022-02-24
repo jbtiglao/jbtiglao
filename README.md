@@ -5,7 +5,7 @@ I'm an Autism mom and advocate with a technical writing and legal background. I 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning how to code.
 - 🔭 I’m currently working on my weather app and README generator.
-- ⚡  Fun fact: I love to paint and draw, take pictures, Star Wars, coffee, books, make-up, and plants.
+- ⚡  Fun fact: I love to paint and draw, garden, take pictures, play with makeup, Star Wars, fantasy, sci-fi, and comic books, and coffee.
 
 
 <!--
