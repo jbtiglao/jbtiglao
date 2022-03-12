@@ -4,7 +4,7 @@ I'm an Autism mom and advocate with a technical writing and legal background. I 
 
 - 😄 Pronouns: She/Her/Hers
 - 🌱 I’m currently learning how to code.
-- 🔭 I’m currently working on my note-taker.
+- 🔭 I’m currently working on my Note Taker.
 - ⚡  Fun fact: I love to paint and draw, garden, take pictures, play with makeup, read fantasy, sci-fi, and comic books, Star Wars, and coffee.
 
 
