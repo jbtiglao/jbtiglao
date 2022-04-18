@@ -4,8 +4,11 @@ I'm an Autism mom and advocate, technical writer, legal professional, and soon-t
 
 - 😄 Pronouns: She/Her/Hers
 - 🌱 I’m currently learning how to code.
-- 🔭 I’m currently working on my Bootcamp assignments.
-- ⚡  Fun fact: I love to paint and draw, garden, take pictures, play with makeup, read fantasy, sci-fi, and comic books, Star Wars, and coffee. I'm also a criminal law junkie. 
+- 🔭 I’m currently...
+      - 💻 working on my Bootcamp assignments.
+      - 📚 reading Recursion by Blake Crouch.
+      - 🎧 listening to the 10,000 Maniacs.
+- ⚡  Fun fact: I love to paint, garden, take pictures, play with makeup, read books, Star Wars, and coffee. I'm also a criminal law junkie. 
 - 📫 You can reach me at: janeytiglao@gmail.com
 
 
